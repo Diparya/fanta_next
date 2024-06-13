@@ -1,5 +1,5 @@
 import React from 'react'
-import Front from './components/front'
+import Front from './components/Front'
 
 const page = () => {
   return (
